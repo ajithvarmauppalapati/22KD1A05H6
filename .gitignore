@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.npm/
+.env*
+*.log
+coverage/
+dist/
+build/
+# macOS / Windows
+.DS_Store
+Thumbs.db
+# VS Code
+.vscode/
+# Go
+bin/
+*.exe
